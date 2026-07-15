@@ -1,0 +1,1 @@
+export const RANDOM_USER_PROFILE_URI = "https://jsonplaceholder.typicode.com/users";
