@@ -17,7 +17,7 @@ export const healthController = (req, res) => {
     try {
         res.status(200).json({
             success: true,
-            message: "Server is performing healthy!"
+            message: "Server is healthy!"
         })
 
     } catch (error) {
