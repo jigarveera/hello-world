@@ -27,6 +27,6 @@ jobs:
         with:
           context: .
           push: true
-          tage: |
+          tags: |
             jigarveera/hello-world:latest
             jigarveera/hello-world:${{ github.sha }}
